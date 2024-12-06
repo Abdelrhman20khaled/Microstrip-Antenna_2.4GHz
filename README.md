@@ -43,16 +43,11 @@ Simulated parameters include:
 - **Radiation Pattern**: Omni-directional in the H-plane.  
 - **Gain**: Achieved gain is approximately 5 dBi.  
 - **VSWR**: ≤ 1.5 at the target frequency.  
-- **S11 Parameter**: Below -10 dB at 2.4 GHz.  
-
----
-
-## How to Use  
-1. **Download the repository**: Clone or download the files to access schematics, layouts, and simulation data.  
-2. **Fabricate the PCB**: Use the provided Gerber files to manufacture the antenna.  
-3. **Simulate**: Verify and optimize using software tools like CST or HFSS.  
-4. **Test**: Integrate with a matching network to achieve a 50 Ω impedance and test in the desired application.  
-
+- **S11 Parameter**: Below -10 dB at 2.4 GHz.
+- 
+<img src="Micostrip Image/Top Layer.jpg" width="500"/>
+<img src="Micostrip Image/Bottom Layer.jpg" width="500"/>
+<img src="Micostrip Image/L=29_422.jpg" width="500"/>
 ---
 
 ## Contributions  
