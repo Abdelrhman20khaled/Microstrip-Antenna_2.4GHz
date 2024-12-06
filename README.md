@@ -35,27 +35,7 @@ The design of the microstrip antenna is based on the following specifications an
 3. **Substrate Thickness**: h = 1.6 mm  
 4. **Conductor Thickness**: t = 0.035 mm  
 
-Key equations used for the design:  
-
-- **Width of the Patch (W)**:  
-  \[
-  W = \frac{c}{2f_r \sqrt{\frac{\epsilon_r + 1}{2}}}
-  \]  
-
-- **Effective Dielectric Constant (ε_eff)**:  
-  \[
-  \epsilon_{\text{eff}} = \frac{\epsilon_r + 1}{2} + \frac{\epsilon_r - 1}{2}\left(1 + 12\frac{h}{W}\right)^{-\frac{1}{2}}
-  \]  
-
-- **Length of the Patch (L)**:  
-  \[
-  L = \frac{c}{2f_r \sqrt{\epsilon_{\text{eff}}}} - 2\Delta L
-  \]  
-
-- **Length Extension (ΔL)**:  
-  \[
-  \Delta L = 0.412h \frac{(\epsilon_{\text{eff}} + 0.3)(\frac{W}{h} + 0.264)}{(\epsilon_{\text{eff}} - 0.258)(\frac{W}{h} + 0.8)}
-  \]  
+<img src="Images/Top_Layer.jpg" width="500"/>
 
 ---
 
