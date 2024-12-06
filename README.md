@@ -20,10 +20,9 @@ The goal of this project is to offer a detailed and practical example of microst
 
 ## Project Structure  
 This repository contains the following key files and directories:  
-- `Manual_Calculations/`: Includes detailed step-by-step calculations for designing the antenna.  
-- `Schematic_Layout/`: Gerber and PCB design files for fabricating the antenna.  
-- `Simulation_Results/`: Contains radiation pattern, gain, VSWR, and S11 parameters.  
-- `3D_Models/`: Optional 3D models for visualization.  
+- `Manual_Calculations`: Includes detailed step-by-step calculations for designing the antenna.  
+- `Simulation_Results`: Contains radiation pattern, gain, VSWR, and S11 parameters.  
+- `3D_Models`: Optional 3D models for visualization.  
 
 ---
 
@@ -35,7 +34,7 @@ The design of the microstrip antenna is based on the following specifications an
 3. **Substrate Thickness**: h = 1.6 mm  
 4. **Conductor Thickness**: t = 0.035 mm  
 
-<img src="Microstrip Image/Parameters.jpg" width="500"/>
+<img src="Micostrip Image/Parameters.jpg" width="500"/>
 
 ---
 
