@@ -35,7 +35,7 @@ The design of the microstrip antenna is based on the following specifications an
 3. **Substrate Thickness**: h = 1.6 mm  
 4. **Conductor Thickness**: t = 0.035 mm  
 
-<img src="Images/Top_Layer.jpg" width="500"/>
+<img src="Microstrip Image/Parameters.jpg" width="500"/>
 
 ---
 
