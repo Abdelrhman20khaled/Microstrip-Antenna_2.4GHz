@@ -48,6 +48,7 @@ Simulated parameters include:
 <img src="Micostrip Image/Top Layer.jpg" width="500"/>
 <img src="Micostrip Image/Bottom Layer.jpg" width="500"/>
 <img src="Micostrip Image/L=29_422.jpg" width="500"/>
+<img src="Micostrip Image/Patch 2.4G_01.gif" width="500"/>
 ---
 
 ## Contributions  
